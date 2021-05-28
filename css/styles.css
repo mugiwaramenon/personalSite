@@ -1,0 +1,100 @@
+body{
+    background-color: #ffd3b4;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    font-size: 1.3rem;
+    margin: auto 0 auto 0;
+}
+h1{
+    font-family: 'Crimson Text', serif;
+    margin: 50px auto 0 auto;
+    font-size: 4rem;
+    color: #66BFBF;
+}
+
+h2{
+    font-family: 'Crimson Text', serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+h3,a{
+    color: #11999E;
+}
+.top-container{
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+}
+.cloud1{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.cloud2{
+    position: absolute;
+    top: 300px;
+    left: 300px;
+}
+
+.profilePic{
+    padding-top: 25px;
+    padding-bottom: 20px;
+    height: 300px;
+    border-radius: 100%;
+    
+}
+.facebookPic{
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+.cyclingPic{
+    width: 25%; 
+    float: right;
+    padding-left: 30px;
+}
+.introH2{
+    font-weight: normal;
+}
+.skill-row{
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+    margin: 100px auto 100px auto
+}
+.contact-me{
+    padding-bottom: 100px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.footer-link{
+    text-decoration: none;
+    font-weight: bold;
+    margin: auto 30px;
+}
+
+.footer-link:hover{
+    color: #1d4949;
+}
+.btn-primary{
+    background-color: #66BFBF;
+    border-color: #11999E;
+    width: 15%;
+}
+.btn-primary:hover{
+    background-color: #11999E;
+}
+
+hr{
+    border-top: dotted;
+    border-width: 8px;
+    width: 5%;
+    color: grey;
+    margin: 50px auto;
+}
+p{
+    color: #194350;
+}
